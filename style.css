@@ -1,0 +1,18 @@
+body {
+	width: 960px;
+	background-color:#777;
+}
+
+header,nav {
+	padding: 25px;
+	margin: auto;
+	text-align: center;
+	background-color: #ebebeb;
+}
+
+section {
+	width: 495px;
+	float: left;
+	background-color: #ebebeb;
+	text-align: center;
+}
